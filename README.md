@@ -6,3 +6,4 @@ Python Projects:
 4. Exploratory Data Analysis on Retail Sales Data
 5. Nutrition Facts for McDonald's Menu
 6. NYC Airbnb Data Analysis
+7. Learning Series
