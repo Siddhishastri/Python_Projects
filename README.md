@@ -7,3 +7,4 @@ Python Projects:
 5. Nutrition Facts for McDonald's Menu
 6. NYC Airbnb Data Analysis
 7. Learning Series
+8. Zomato Data Analysis
