@@ -1,4 +1,4 @@
-Python Projects:
+# Python Projects:
 
 1. [Insurance Data Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis)
 2. [Online Car Rental Platform](https://github.com/Siddhishastri/Python_Projects/tree/main/Online%20Car%20Rental%20Platform)
@@ -9,7 +9,7 @@ Python Projects:
 7. [Learning Series](https://github.com/Siddhishastri/Python_Projects/tree/main/Learning_Series)
 8. [Zomato Data Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis)
 
-## Contact
+# Contact
 
 Feel free to reach out if you have any questions or suggestions regarding the project:
 
