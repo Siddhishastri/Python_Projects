@@ -70,9 +70,11 @@ Through my analysis, I was able to extract the following key insights:
 Here are a few visualizations generated during the analysis:
 
 + Restaurant Types and Online Order Preferences (Heatmap):
-+ Rating for Online and Offline Orders (Count Plot):
+![heatmap](https://github.com/user-attachments/assets/eb57fb7e-4599-47c5-832a-ed51a644a8a9)
 + Rating Distribution (Histogram):
+![Histogram](https://github.com/user-attachments/assets/26790c33-b6dd-4025-ab49-d82842ca568f)
 + Price Range Preferred by Couples (Count Plot):
+![Countplot](https://github.com/user-attachments/assets/4e515323-2b7b-4545-9a8e-d74a0c776b5a)
 
 
 ## Contact
