@@ -5,13 +5,12 @@ Welcome to my Zomato Data Analysis project! This project leverages Python’s po
 
 ## Table of Contents
 - [Project Overview](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#project-overview)
-- Technologies Used
-- Key Questions Addressed
-- Findings and Insights
-- Conclusion
-- Setup Instructions
-- Visualizations
-- Contact
+- [Technologies Used](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#technologies-used)
+- [Key Questions Addressed](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#key-questions-addressed)
+- [Findings and Insights](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#findings-and-insights)
+- [Conclusion](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#conclusion)
+- [Visualizations](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#visualizations)
+- [Contact](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis#contact)
 
 ## Project Overview
 In this project, I analyzed the Zomato restaurant dataset to gain insights into restaurant preferences, customer behavior, and ratings. By utilizing Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn, I performed in-depth analysis and visualized trends that answer important questions about the restaurant industry.
