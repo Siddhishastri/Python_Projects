@@ -49,17 +49,19 @@ The dataset contains the following columns:
 + Analyzed and transformed variables for better model performance.
 4. Exploratory Data Analysis (EDA)
 + Histograms: Plotted histograms for age, charges, BMI, and children to visualize the distribution of key variables.
+![histogram](https://github.com/user-attachments/assets/162f0fde-16c8-4f75-b0b2-87af9b96a3f0)
 + Scatter Plot: Created scatter plots to examine relationships between variables, specifically:
 + BMI vs Charges: Observed that BMI has a normal distribution and a moderate positive correlation with charges.
+![scatterplot](https://github.com/user-attachments/assets/d320ef44-3f3d-4189-950b-1aeb52dab905)
 + Pairplot: Used sns.pairplot() to visualize the pairwise relationships between numerical variables, with smoker as the hue to highlight differences between smokers and non-smokers.
+![pairplot](https://github.com/user-attachments/assets/fc4cd36d-8782-4553-8463-d0ee430f7149)
 5. Visualizing Distribution by Sex and Region
 + Pie Chart by Region: Created a pie chart to visualize the distribution of policyholders by region.
+![piechart1](https://github.com/user-attachments/assets/7c58d79b-2f94-4f8b-ab4b-8045fc3490c8)
 + Pie Chart by Smoking Status: Created another pie chart to understand the proportion of smokers and non-smokers in the dataset.
+![piechart2](https://github.com/user-attachments/assets/8a1449f4-694f-497d-98ce-073cf586db75)
 6. Correlation Analysis
 Calculated the correlation matrix to identify the relationships between different variables, especially between charges and other variables like age, BMI, and smoker.
-7. Model Creation (Optional)
-Trained a regression model (e.g., Linear Regression) to predict charges based on the input features.
-
 ## Results
 + Age and charges have the strongest relationship, followed by BMI and charges.
 + Smokers are charged significantly more than non-smokers due to their higher health risks.
