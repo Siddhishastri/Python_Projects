@@ -1,6 +1,6 @@
 # Python Projects:
 
-1. [Insurance Data Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis)
+1. [Insurance Data Analysis](https://github.com/Siddhishastri/Python_Projects/blob/main/Insurance%20Data%20Analysis/README.md)
 2. [Online Car Rental Platform](https://github.com/Siddhishastri/Python_Projects/tree/main/Online%20Car%20Rental%20Platform)
 3. [Christmas Sales Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Christmas_Sales_Analysis)
 4. [Exploratory Data Analysis on Retail Sales Data](https://github.com/Siddhishastri/Python_Projects/tree/main/Exploratory_Data_Analysis_on_Retail_Sales_Data)
