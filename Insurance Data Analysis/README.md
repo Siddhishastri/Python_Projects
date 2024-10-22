@@ -1,20 +1,15 @@
-# Insurance EDA & Medical Cost Prediction Project
+# Insurance Data Analysis
 
 ## Project Overview
 
-This project focuses on exploratory data analysis (EDA) and predictive modeling for a healthcare insurance dataset. The dataset contains information about policyholders and their medical costs. The goal of the project is to analyze how various factors—such as age, BMI, smoking status, and region—affect medical insurance costs and to build a model that can predict the insurance premium based on these factors.
-
-## Domain
-+ Industry: Healthcare and Insurance
-+ Problem Type: Regression
-+ Goal: To create a model that predicts the medical insurance premium cost based on various features such as age, BMI, number of children, smoking habits, and region.
+This project focuses on exploratory data analysis (EDA) for a healthcare insurance dataset. The dataset contains information about policyholders and their medical costs. The goal of the project is to analyze how various factors—such as age, BMI, smoking status, and region—affect medical insurance costs.
 
 ## Problem Statement
 
-ABC Insurance, an insurance agency, has a large dataset containing information about their policyholders and claims. They want to analyze the factors that influence the cost of medical insurance premiums. For example, a smoker's insurance premium is usually higher than a non-smoker's due to the increased risk of chronic diseases. The agency is looking for insights from this dataset to help make better business decisions and predict healthcare premiums for future policyholders based on input features.
+ABC Insurance, an insurance agency, has a large dataset containing information about their policyholders and claims. They want to analyze the factors that influence the cost of medical insurance premiums. For example, a smoker's insurance premium is usually higher than a non-smoker's due to the increased risk of chronic diseases. The agency is looking for insights from this dataset to help make better business decisions.
 
 ## Objective
-The objective of this project is to analyze the insurance dataset and create a predictive model to estimate the cost of medical insurance based on several factors including:
+The objective of this project is to analyze the insurance dataset based on several factors including:
 
 + Age
 + BMI
@@ -22,7 +17,7 @@ The objective of this project is to analyze the insurance dataset and create a p
 + Smoking status
 + Region
 
-By doing so, we aim to uncover trends and patterns in the dataset and predict insurance costs more accurately.
+By doing so, we aim to uncover trends and patterns in the dataset.
 
 ## Dataset
 The dataset contains the following columns:
