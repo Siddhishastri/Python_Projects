@@ -23,7 +23,7 @@ Step 1: Create the Car Rental Class
 + Define the constructor to initialize the number of available cars.
 
 Step 2: Display Available Cars
-+ Define a method display_stock to display how many cars are currently available for rent.
++ Define a method to display how many cars are currently available for rent.
 
 Step 3: Hourly, Daily, and Weekly Rentals
 + Implement methods to rent cars on an hourly, daily, or weekly basis.
