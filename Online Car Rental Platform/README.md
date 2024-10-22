@@ -12,7 +12,7 @@ A car rental company needs an online platform where:
 * The company can track available inventory and fulfill customer requests based on available stock.
 + Customers receive an auto-generated bill after returning rented cars.
 
-Instructions and Steps to Perform
+## Instructions and Steps to Perform
 
 1. Car Rental Module (car_rental.py)
 
