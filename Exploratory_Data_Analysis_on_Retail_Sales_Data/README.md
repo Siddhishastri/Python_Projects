@@ -3,20 +3,20 @@
 ## Project Overview
 The goal of this project is to perform Exploratory Data Analysis (EDA) on retail sales data to uncover patterns, trends, and insights that can help the retail business make informed decisions. In addition, a Linear Regression model is built to predict future sales based on the insights derived from the dataset.
 Steps Involved in the Project
-1. Data Loading and Cleaning
+## Data Loading and Cleaning
 + Objective: Load the dataset into the environment and perform necessary data cleaning.
 + Actions:
   + Read the dataset using pandas and inspect its structure (columns, data types, etc.).
   + Handle missing or inconsistent data (e.g., missing values, outliers).
   + Remove any duplicates and check for any anomalies in the data.
 
-2. Data Preprocessing
+## Data Preprocessing
 + Objective: Prepare the dataset for analysis and modeling.
 + Actions:
   + Convert the Date column to datetime format for better handling of time-series data.
   + Create new columns such as Year, Month, and Day to analyze sales trends over time.
 
-3. Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 1. Which Gender Spends More Money?
 + Objective: Analyze which gender contributes the most to the overall sales revenue.
