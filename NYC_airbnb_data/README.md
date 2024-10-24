@@ -72,10 +72,10 @@ Objective: Visualize the distribution of the price column to identify the common
 + Listings are typically available for around [availability statistic] days per year, indicating that many properties are not rented year-round.
 
 ## Technologies and Tools Used
-Python: Main language used for analysis.
-Pandas: For data loading, cleaning, and preprocessing.
-Seaborn & Matplotlib: For data visualization.
-Statistics: For data insights (mean, median, mode, quantiles, standard deviation).
++ Python: Main language used for analysis.
++ Pandas: For data loading, cleaning, and preprocessing.
++ Seaborn & Matplotlib: For data visualization.
++ Statistics: For data insights (mean, median, mode, quantiles, standard deviation).
 
 ## Future Work
 + Explore deeper insights by performing a time-series analysis on booking trends.
