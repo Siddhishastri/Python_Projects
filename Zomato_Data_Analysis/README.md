@@ -1,5 +1,5 @@
 
-# Zomato Data Analysis 🐍📊
+# Zomato Customer Behavior and Trend Analysis 🐍📊
 
 Welcome to my Zomato Data Analysis project! This project leverages Python’s powerful data analysis libraries to explore and extract insights from the Zomato restaurant dataset. Through this project, I have uncovered customer preferences, online vs. offline ordering trends, pricing strategies, and more. The analysis aims to answer key questions about restaurant types, price ranges, and order preferences based on real data.
 
