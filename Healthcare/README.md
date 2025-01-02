@@ -22,47 +22,43 @@ Cardiovascular diseases are among the leading causes of death globally. To addre
 * Developed an interactive Tableau dashboard to compare attributes of healthy vs. diseased individuals.
 * Highlighted key relationships and visualized trends to aid in understanding the critical factors influencing CVD risk.
 
-📂 Dataset Overview
+## 📂 Dataset Overview
 Attributes:
-age: Age in years.
-sex: Gender (1 = male, 0 = female).
-cp: Type of chest pain (categorical).
-trestbps: Resting blood pressure (mm Hg).
-chol: Serum cholesterol (mg/dl).
-fbs: Fasting blood sugar (>120 mg/dl; 1 = true, 0 = false).
-restecg: Resting electrocardiographic results.
-thalach: Maximum heart rate achieved.
-exang: Exercise-induced angina (1 = yes, 0 = no).
-oldpeak: ST depression induced by exercise relative to rest.
-slope: Slope of the peak exercise ST segment.
-ca: Number of major vessels (0-3) colored by fluoroscopy.
-thal: 3 = normal, 6 = fixed defect, 7 = reversible defect.
-target: 1 = Heart disease present, 0 = No heart disease.
+* age: Age in years.
+* sex: Gender (1 = male, 0 = female).
+* cp: Type of chest pain (categorical).
+* trestbps: Resting blood pressure (mm Hg).
+* chol: Serum cholesterol (mg/dl).
+* fbs: Fasting blood sugar (>120 mg/dl; 1 = true, 0 = false).
+* restecg: Resting electrocardiographic results.
+* thalach: Maximum heart rate achieved.
+* exang: Exercise-induced angina (1 = yes, 0 = no).
+* oldpeak: ST depression induced by exercise relative to rest.
+* slope: Slope of the peak exercise ST segment.
+* ca: Number of major vessels (0-3) colored by fluoroscopy.
+* thal: 3 = normal, 6 = fixed defect, 7 = reversible defect.
+* target: 1 = Heart disease present, 0 = No heart disease.
 
-🛠️ Tools & Techniques Used
-Data Cleaning & Analysis: Python (pandas, numpy, seaborn, matplotlib).
-Modeling: Logistic Regression with scikit-learn.
-Performance Evaluation: Confusion matrix, accuracy, precision, recall.
-Visualization: Tableau for dashboards and storytelling.
-Statistical Methods: Central tendencies, spread analysis, pair plots, and correlation analysis.
+## 🛠️ Tools & Techniques Used
+* Data Cleaning & Analysis: Python (pandas, numpy, seaborn, matplotlib).
+* Modeling: Logistic Regression with scikit-learn.
+* Performance Evaluation: Confusion matrix, accuracy, precision, recall.
+* Visualization: Tableau for dashboards and storytelling.
+* Statistical Methods: Central tendencies, spread analysis, pair plots, and correlation analysis.
 
-🔮 Key Insights
-Age and Gender:
+## 🔮 Key Insights
+1. Age and Gender:
+* Higher CVD risk was observed in older individuals.
+* Males were more likely to experience CVD than females.
+2. Cholesterol and Blood Pressure:
+* Elevated cholesterol levels and higher resting blood pressure significantly correlated with increased CVD risk.
+3. Thalassemia and Heart Rate:
+* Abnormal thalassemia results and lower maximum heart rates were strong indicators of heart disease.
+4. Chest Pain Types:
+* Certain chest pain types were closely associated with higher probabilities of heart attacks.
 
-Higher CVD risk was observed in older individuals.
-Males were more likely to experience CVD than females.
-Cholesterol and Blood Pressure:
-
-Elevated cholesterol levels and higher resting blood pressure significantly correlated with increased CVD risk.
-Thalassemia and Heart Rate:
-
-Abnormal thalassemia results and lower maximum heart rates were strong indicators of heart disease.
-Chest Pain Types:
-
-Certain chest pain types were closely associated with higher probabilities of heart attacks.
-📊 Visualization Summary
+## 📊 Visualization Summary
 An interactive Tableau dashboard was created to:
-
-Compare healthy individuals with those at risk of heart disease.
-Highlight key attributes like cholesterol, resting blood pressure, and thalassemia.
-Provide actionable insights into the factors affecting cardiovascular health.
+* Compare healthy individuals with those at risk of heart disease.
+* Highlight key attributes like cholesterol, resting blood pressure, and thalassemia.
+* Provide actionable insights into the factors affecting cardiovascular health.
