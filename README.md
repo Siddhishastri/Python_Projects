@@ -10,8 +10,6 @@
 8. [Zomato Data Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis)
 9. [Cardiovascular Disease Prediction and Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Healthcare)
 
-9. https://github.com/Siddhishastri/Python_Projects/tree/main/Healthcare
-
 # Contact
 
 Feel free to reach out if you have any questions or suggestions regarding the project:
