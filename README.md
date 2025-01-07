@@ -8,6 +8,9 @@
 6. [NYC Airbnb Data Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/NYC_airbnb_data)
 7. [Learning Series](https://github.com/Siddhishastri/Python_Projects/tree/main/Learning_Series)
 8. [Zomato Data Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Zomato_Data_Analysis)
+9. [Cardiovascular Disease Prediction and Analysis](https://github.com/Siddhishastri/Python_Projects/tree/main/Healthcare)
+
+9. https://github.com/Siddhishastri/Python_Projects/tree/main/Healthcare
 
 # Contact
 
