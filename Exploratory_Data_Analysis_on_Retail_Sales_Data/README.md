@@ -2,7 +2,7 @@
 
 ## Project Overview
 The goal of this project is to perform Exploratory Data Analysis (EDA) on retail sales data to uncover patterns, trends, and insights that can help the retail business make informed decisions. In addition, a Linear Regression model is built to predict future sales based on the insights derived from the dataset.
-Steps Involved in the Project
+
 ## Data Loading and Cleaning
 + Objective: Load the dataset into the environment and perform necessary data cleaning.
 + Actions:
